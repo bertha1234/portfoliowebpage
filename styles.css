@@ -1,0 +1,19 @@
+:root {
+    --main-white:#f0f0f0;
+    --main-red:#be3144;
+    --main-blue:#45567d;
+    --main-grey:#303841;
+  }
+  @media (max-width: 61.25em) html{
+  font-size:58%;
+  }
+  #navbar{
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+  background-color:#cc0000;
+    color:white;
+    padding:1 em;
+  }
+  
